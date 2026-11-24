@@ -1,0 +1,3 @@
+report_id,period,region_scope,min_group_size,release_state,snapshot_id
+RP-1,2024H1,all,5,draft,SN-1
+RP-2,2024H1,subregion,5,review,SN-1

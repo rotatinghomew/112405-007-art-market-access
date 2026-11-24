@@ -1,0 +1,4 @@
+venue_id,period,reporting_scope,known_gaps,review_state
+V-1,2024H1,online auctions,private sales,reviewed
+V-2,2024H1,selected lots,withdrawals may omit,pending
+V-3,2023H2,archive sample,venue mix unknown,uncertain

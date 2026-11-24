@@ -1,0 +1,5 @@
+record_id,venue_id,work_id,event_on,event_state,price_band,region,source_ref
+T-1,V-1,W-1,2024-04-01,sold,high,华东,R-1
+T-2,V-2,W-2,2024-04-02,withdrawn,,华南,R-2
+T-3,V-1,W-1,2024-04-01,sold,high,华东,R-1
+T-4,V-3,W-3,2023-11-10,sold,mid,unknown,R-3
